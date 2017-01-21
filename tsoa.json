@@ -1,0 +1,13 @@
+{
+    "swagger": {
+        "outputDirectory": "./build/spec",
+        "entryFile": "./src/server.ts",
+        "host": "localhost:3000",
+        "basePath": "/api"
+    },
+    "routes": {
+        "basePath": "/api",
+        "entryFile": "./src/server.ts",
+        "routesDir": "./src"
+    }
+}
