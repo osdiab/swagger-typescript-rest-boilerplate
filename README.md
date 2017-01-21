@@ -5,7 +5,7 @@ This project aims to provide a starting application for a REST API described in 
 
 ## Installation
 
-See [the installation instructions](./INSTALLATION.MD).
+See [the installation instructions](https://github.com/osdiab/swagger-typescript-rest-boilerplate/blob/master/INSTALLATION.md).
 
 ## Generating useful stuff
 
