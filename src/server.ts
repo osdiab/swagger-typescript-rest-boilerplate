@@ -1,6 +1,6 @@
 import * as express from "express";
-import {RegisterRoutes} from "./routes";
 
+import {RegisterRoutes} from "../build/routes/routes";
 import './controllers/usersController';
 
 const PORT = 3000;
